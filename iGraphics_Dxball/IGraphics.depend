@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1604815386 source:f:\1905030\1905030 wave.cpp
+	"iGraphics.h"
+	"gl.h"
+	<math.h>
+
+1563893532 f:\1905030\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 f:\1905030\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 f:\1905030\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 f:\1905030\opengl\include\gl.h
+
+1607967832 source:f:\1905030\imain.cpp
+	"iGraphics.h"
+
+1608415528 source:f:\1905030\dx ball.cpp
+	"iGraphics.h"
+	<math.h>
+	<bits/stdc++.h>
+
+1608413201 source:f:\1905030\dxrough.cpp
+	<bits/stdc++.h>
+	"iGraphics.h"
+	<stdio.h>
+	<math.h>
+
+1608415528 source:f:\1905030 igraphics\dx ball.cpp
+	"iGraphics.h"
+	<math.h>
+	<bits/stdc++.h>
+
+1563893532 f:\1905030 igraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 f:\1905030 igraphics\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 f:\1905030 igraphics\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
